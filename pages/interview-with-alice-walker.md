@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Interview with Alice Walker
+title: Interview with Alice Walker, Tape 1, Side A
 manifest_name: interview-with-alice-walker
 permalink: interview-with-alice-walker
 external_manifest_url: https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll83v3/1054
