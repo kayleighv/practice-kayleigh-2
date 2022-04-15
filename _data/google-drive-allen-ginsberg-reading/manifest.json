@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://kayleighv.github.io/practice-kayleigh-2/google-drive-allen-ginsberg-reading/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Google Drive - Allen Ginsberg Reading" ] },
+    "label": { "en": [ "Box - Allen Ginsberg Reading" ] },
     "items": [
       {
         "id": "https://kayleighv.github.io/practice-kayleigh-2/google-drive-allen-ginsberg-reading/canvas-1/canvas",
