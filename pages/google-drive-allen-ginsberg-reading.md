@@ -1,8 +1,8 @@
 ---
 layout: item
 title: Box - Allen Ginsberg Reading
-manifest_name: google-drive-allen-ginsberg-reading
-permalink: google-drive-allen-ginsberg-reading
+manifest_name: box-allen-ginsberg-reading
+permalink: box-allen-ginsberg-reading
 external_manifest_url: 
 
 ---
