@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kayleighv.github.io/practice-kayleigh-2/box-allen-ginsberg-reading/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Box - Allen Ginsberg Reading" ] },
+    "items": [
+      {
+        "id": "https://kayleighv.github.io/practice-kayleigh-2/box-allen-ginsberg-reading/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1728.0,
+        "items": [
+          {
+            "id": "https://kayleighv.github.io/practice-kayleigh-2/box-allen-ginsberg-reading/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kayleighv.github.io/practice-kayleigh-2/box-allen-ginsberg-reading/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://utexas.box.com/shared/static/5dht79x15xkk1snxfyniur7og30o13tt.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1728.0
+                },
+                "target": "https://kayleighv.github.io/practice-kayleigh-2/box-allen-ginsberg-reading/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
